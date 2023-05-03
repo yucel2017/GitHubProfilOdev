@@ -1,0 +1,5 @@
+# GitHubProfilOdev
+
+HTML VE SCSS TEKNOLOJİLERİ KULLANILARAK YAZILMIŞ BİR DENEME-ÖDEV PROJESİ
+
+![](GithubScssOdev.gif)
